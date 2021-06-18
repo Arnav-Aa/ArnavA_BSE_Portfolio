@@ -1,4 +1,4 @@
-﻿# Project Name/Title Goes Here
+﻿# Arduino Tic Tac Toe
 I am working on an arduino tic tac toe matrix.
 | **Engineer** | **School** | **Area of Interest** | **Grade** |
 |:--:|:--:|:--:|:--:|
