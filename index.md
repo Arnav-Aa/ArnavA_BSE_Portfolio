@@ -19,4 +19,4 @@ My final milestone is the increased reliability and accuracy of my robot. I amel
   
 My first milestone was getting the arduino board and software set up, and then creating a smaller scale of the tic tac toe board. I had started with a 3x1 matrix at first, to serve as a prototype but also having room for expansion. Each light could be set to a binary set of blue and red colors. This would correspond to the "x" and "o" on a standard tic tac toe board. I had also added a restart button which would turn each LED off when pressed, as a way to start a new game.
 
-[![First Milestone](https://res.cloudinary.com/dvdvsdoju/image/upload/v1624040351/tictactoe_dghgs1.png)](https://www.youtube.com/watch?v=lOrXrKRzXBY){:target="_blank" rel="noopener"}
+[![First Milestone](https://res.cloudinary.com/dvdvsdoju/image/upload/v1624040351/tictactoe_dghgs1.png)](){:target="_blank" rel="noopener"}
