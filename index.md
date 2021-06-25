@@ -12,7 +12,7 @@ My final milestone is the increased reliability and accuracy of my robot. I amel
 [![Final Milestone](https://res.cloudinary.com/marcomontalbano/image/upload/v1612573869/video_to_markdown/images/youtube--F7M7imOVGug-c05b58ac6eb4c4700831b2b3070cd403.jpg )](https://www.youtube.com/watch?v=F7M7imOVGug&feature=emb_logo "Final Milestone"){:target="_blank" rel="noopener"}
 
 # Second Milestone
-My second milestone is adding a 
+My second milestone was working on a winning formation and expanding the tic tac toe matrix. I added a new row of 3 more buttons and changed them from the previous ones for aesthetic purposes. This row of buttons would correspond to the next row of lights in the matrix. The winning formation would consits of buzzer sound effects and lights. The lights would highlight the win condition by blinking for a couple seconds followed by sound effects played by the buzzer.
 
 [![Third Milestone](https://res.cloudinary.com/marcomontalbano/image/upload/v1612574014/video_to_markdown/images/youtube--y3VAmNlER5Y-c05b58ac6eb4c4700831b2b3070cd403.jpg)](https://www.youtube.com/watch?v=y3VAmNlER5Y&feature=emb_logo "Second Milestone"){:target="_blank" rel="noopener"}
 # First Milestone
