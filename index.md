@@ -19,4 +19,4 @@ My second milestone was working on a winning formation and expanding the tic tac
   
 My first milestone was getting the arduino board and software set up, and then creating a smaller scale of the tic tac toe board. I had started with a 3x1 matrix at first, to serve as a prototype but also having room for expansion. Each light could be set to a binary set of blue and red colors. This would correspond to the "x" and "o" on a standard tic tac toe board. I had also added a restart button which would turn each LED off when pressed, as a way to start a new game.
 
-[![First Milestone](}
+[![First Milestone](https://res.cloudinary.com/dvdvsdoju/image/upload/v1624641329/IMG_3420_1_wxn5d4.heic)}
