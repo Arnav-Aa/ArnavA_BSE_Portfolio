@@ -14,7 +14,7 @@ My final milestone was changing the button interface expanding into a 3x3 matrix
 # Second Milestone
 My second milestone was working on a winning formation and expanding the tic tac toe matrix. I added a new row of 3 more buttons and changed them from the previous ones for aesthetic purposes. This row of buttons would correspond to the next row of lights in the matrix.I had coded the arduino to identify the 8 win conditions of tic tac toe and having a win formation to go with it. The winning formation would consist of buzzer sound effects and lights. The lights would highlight the win condition by blinking for a couple seconds followed by sound effects played by the buzzer.
 
-[![Second Milestone](https://res.cloudinary.com/marcomontalbano/image/upload/v1612574014/video_to_markdown/images/youtube--y3VAmNlER5Y-c05b58ac6eb4c4700831b2b3070cd403.jpg)](https://youtu.be/9XZAaO8yEx8 "Second Milestone"){:target="_blank" rel="noopener"}
+[![Second Milestone](https://res.cloudinary.com/dvdvsdoju/image/upload/v1625244148/Capture_fbsmi6.png)](https://youtu.be/9XZAaO8yEx8 "Second Milestone"){:target="_blank" rel="noopener"}
 # First Milestone
   
 My first milestone was getting the arduino board and software set up, and then creating a smaller scale of the tic tac toe board. I had started with a 3x1 matrix at first, to serve as a prototype but also having room for expansion. Each light could be set to a binary set of blue and red colors. This would correspond to the "x" and "o" on a standard tic tac toe board. I had also added a restart button which would turn each LED off when pressed, as a way to start a new game.
