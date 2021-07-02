@@ -9,7 +9,7 @@ I am working on an arduino tic tac toe matrix.
 # Final Milestone
 My final milestone was changing the button interface expanding into a 3x3 matrix. I would use one button to scroll through the LEDS and another to select the LED. I used ledstrips instead of the previous leds. This made it so I could give different rgb values to each led on the ledstrip. I used the colors green and blue on the LED strip to correspond to the X and O on tic tac toe. To create the 3x3 matrix, I cut three pieces of led strip, each consisting of 3 leds each. I soldered these strips together the create the 3x3 matrix, completing the tic tac toe board.
 
-[![Final Milestone](https://res.cloudinary.com/marcomontalbano/image/upload/v1612573869/video_to_markdown/images/youtube--F7M7imOVGug-c05b58ac6eb4c4700831b2b3070cd403.jpg )](https://youtu.be/eC2Bc6pnxSI "Final Milestone"){:target="_blank" rel="noopener"}
+[![Final Milestone](https://res.cloudinary.com/dvdvsdoju/image/upload/v1625244300/Yo_acgwgu.png )](https://youtu.be/eC2Bc6pnxSI "Final Milestone"){:target="_blank" rel="noopener"}
 
 # Second Milestone
 My second milestone was working on a winning formation and expanding the tic tac toe matrix. I added a new row of 3 more buttons and changed them from the previous ones for aesthetic purposes. This row of buttons would correspond to the next row of lights in the matrix.I had coded the arduino to identify the 8 win conditions of tic tac toe and having a win formation to go with it. The winning formation would consist of buzzer sound effects and lights. The lights would highlight the win condition by blinking for a couple seconds followed by sound effects played by the buzzer.
