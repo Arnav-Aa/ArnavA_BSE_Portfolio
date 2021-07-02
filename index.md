@@ -1,7 +1,6 @@
 ﻿# Arduino Tic Tac Toe
 I am working on an arduino tic tac toe matrix.
 | **Engineer** | **School** | **Area of Interest** | **Grade** |
-|:--:|:--:|:--:|:--:|
 | Arnav Ashok | Santa Clara High School | Electrical Engineering | Incoming Sophomore
 
 ![Headstone Image](https://bluestampengineering.com/wp-content/uploads/2016/05/improve.jpg)
