@@ -7,7 +7,7 @@ I am working on an arduino tic tac toe matrix.
 ![Headstone Image](https://bluestampengineering.com/wp-content/uploads/2016/05/improve.jpg)
   
 # Final Milestone
-My final milestone was changing the number of buttons from 9 to 2. I would use one button to scroll through the LEDS and another to select the LED. I used ledstrips instead of the previous leds. This made it so I could give different rgb values to each led on the ledstrip. I soldered 3 LED strips together to create a 3x3 matrix, then connected them to the arduino.
+My final milestone was changing the button interface expanding into a 3x3 matrix. I would use one button to scroll through the LEDS and another to select the LED. I used ledstrips instead of the previous leds. This made it so I could give different rgb values to each led on the ledstrip. I used the colors green and blue on the LED strip to correspond to the X and O on tic tac toe. To create the 3x3 matrix, I cut three pieces of led strip, each consisting of 3 leds each. I soldered these strips together the create the 3x3 matrix, completing the tic tac toe board.
 
 [![Final Milestone](https://res.cloudinary.com/marcomontalbano/image/upload/v1612573869/video_to_markdown/images/youtube--F7M7imOVGug-c05b58ac6eb4c4700831b2b3070cd403.jpg )](https://youtu.be/eC2Bc6pnxSI "Final Milestone"){:target="_blank" rel="noopener"}
 
